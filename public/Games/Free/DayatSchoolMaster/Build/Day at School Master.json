@@ -1,0 +1,12 @@
+{
+"companyName": "YourCompany",
+"productName": "Day at School My Teacher Games",
+"dataUrl": "Day at School Master.data.unityweb",
+"wasmCodeUrl": "Day at School Master.wasm.code.unityweb",
+"wasmFrameworkUrl": "Day at School Master.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
