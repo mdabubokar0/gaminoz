@@ -1,0 +1,12 @@
+{
+"companyName": "Company",
+"productName": "Potato Chips Making Games",
+"dataUrl": "Potato chip Maker.data.unityweb",
+"wasmCodeUrl": "Potato chip Maker.wasm.code.unityweb",
+"wasmFrameworkUrl": "Potato chip Maker.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

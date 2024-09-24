@@ -1,0 +1,12 @@
+{
+"companyName": "YourCompanyName",
+"productName": "Hand Doctor",
+"dataUrl": "Hand Doctor.data.unityweb",
+"wasmCodeUrl": "Hand Doctor.wasm.code.unityweb",
+"wasmFrameworkUrl": "Hand Doctor.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
