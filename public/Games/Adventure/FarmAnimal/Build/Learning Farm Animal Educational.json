@@ -1,0 +1,12 @@
+{
+"companyName": "YourCompany",
+"productName": "Learning Farm Animals-Educational Games For Kids",
+"dataUrl": "Learning Farm Animal Educational.data.unityweb",
+"wasmCodeUrl": "Learning Farm Animal Educational.wasm.code.unityweb",
+"wasmFrameworkUrl": "Learning Farm Animal Educational.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
