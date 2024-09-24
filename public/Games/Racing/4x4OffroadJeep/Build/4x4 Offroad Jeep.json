@@ -1,0 +1,12 @@
+{
+"companyName": "GP Games Studio",
+"productName": "4x4 Drive Offroad Jeep",
+"dataUrl": "4x4 Offroad Jeep.data.unityweb",
+"wasmCodeUrl": "4x4 Offroad Jeep.wasm.code.unityweb",
+"wasmFrameworkUrl": "4x4 Offroad Jeep.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
